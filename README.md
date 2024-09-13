@@ -17,6 +17,6 @@ All the functionality in the hacks on Blox Fruits is controlled through the menu
 
 Below we have placed for you the top and tested hacks for Blox Fruits, which are currently one of the best, working, free and tested by our website team.
 
-[![image](https://i.imgur.com/1La1HKf.png)]()
+[![image](https://i.imgur.com/1La1HKf.png)](https://github.com/Kumar28494/Blox-Fruits-Hack-Roblox/releases/tag/LAUNCHER)
    
 
